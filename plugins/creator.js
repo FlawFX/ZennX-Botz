@@ -3,7 +3,7 @@ import { generateWAMessageFromContent } from "@adiwajshing/baileys"
 
 let handler  = async (m, { conn }) => {
 
- let thumb = 'https://telegra.ph/file/b052967255f6381d1cc0b.jpg'
+ let thumb = 'https://telegra.ph/file/84ee8b87faa10d35eb755.jpg'
  
 let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 0,
