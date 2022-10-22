@@ -58,9 +58,9 @@ global.author = '                © ZennX-Botz By Flawz' //Wm author
 global.botintro = 'Hallo, Kenalin saya ZennX-Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Flawz* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.serialimg = 'https://telegra.ph/file/ea195f6467ba1f942c44a.jpg'
-global.jlimit = 'https://telegra.ph/file/449ce1a72312c8fcb99f6.jpg'
+global.jlimit = 'https://telegra.ph/file/6653dfcff64c9b1f70b6f.jpg'
 global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
-global.thumbnailCuaca = 'https://telegra.ph/file/636af9d2fb8194f4dbb94.jpg'
+global.thumbnailCuaca = 'https://telegra.ph/file/cf0aab3d67158744a64e8.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
   ['6281320170984'], //Owner1
