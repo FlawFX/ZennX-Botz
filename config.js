@@ -63,9 +63,9 @@ global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
 global.thumbnailCuaca = 'https://telegra.ph/file/cf0aab3d67158744a64e8.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281320170984'], //Owner1
-  ['79680341674'], //Owner2
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6285693603298', 'Rizki 😎', true] //Owner1
+  [''], //Owner2
+  ['6289510598381', 'Yogi 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -124,13 +124,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '       「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '       「 赤 ZennX-Botz ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Flawz Ketceh❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 ZennX-Botz'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: FangzXD' //Ganti serah lu
+global.titlebot = '© ZennX-Botz' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -433,10 +433,10 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 /*⫘⫘⫘⫘ LOADING ⫘⫘⫘⫘⫘*/
 global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
 global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.eror = '⸨Acsess Danied⸩'
-global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
-global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
-global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
+global.eror = '⸨Akses Ditolak⸩'
+global.benar = 'Kok tau?, Wah ini jelas pinter! ◕◡◕'
+global.salah = 'Pinternya Kelewatan! ◕◠◕'
+global.dikit = "Dikit Lagi Coy, Tetaplah Menyerah!!"
 
 /*⫘⫘⫘⫘ DOCUMENT ⫘⫘⫘⫘⫘*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation' 
@@ -453,10 +453,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'https://wa.me/6288215689772'
+global.nameowner = 'Flawz'
+global.umurowner = '5'
+global.asalowner = 'Mars, Deket Rumah Erpan'
+global.nomorowner = 'https://wa.me/6289510598381'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -487,9 +487,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FangzXD'
-global.stickauth = `Fangz BOT\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickpack = 'Created By ZennX-Botz'
+global.stickauth = `ZennX-Botz\nNomor: ${global.nomorbot}`
+global.packname = 'Made By Flawz!'
 
 
 global.multiplier = 38 // The higher, The harder levelup
