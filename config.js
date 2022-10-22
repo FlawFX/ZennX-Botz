@@ -135,7 +135,7 @@ global.titlebot = '© ZennX-Botz' //Ganti serah lu
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
 global.logo = 'https://ibb.co/17RY7x9'
-global.thumb = 'https://telegra.ph/file/22abfec5e8c5b3e6596d1.jpg' //Thumbnail nya
+global.thumb = 'https://telegra.ph/file/0f499c0d17473443d9611.jpg' //Thumbnail nya
 global.thumb2 = 'https://telegra.ph/file/312d5d7a5ad4d4f8b5d7a.jpg' //Thumbnail 2
 global.thumbbc = 'https://telegra.ph/file/3377bec81cd8614917d24.jpg' //Image Bcgcb
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
@@ -435,7 +435,7 @@ global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
 global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
 global.eror = '⸨Akses Ditolak⸩'
 global.benar = 'Kok tau?, Wah ini jelas pinter! ◕◡◕'
-global.salah = 'Pinternya Kelewatan! ◕◠◕'
+global.salah = 'Pinternya Kelewatan, Coba Lagi Ngab! ◕◠◕'
 global.dikit = "Dikit Lagi Coy, Tetaplah Menyerah!!"
 
 /*⫘⫘⫘⫘ DOCUMENT ⫘⫘⫘⫘⫘*/
